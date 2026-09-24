@@ -1,19 +1,18 @@
-# Atividades-Web-I
 # 📚 Central de Atividades
 
 | Atividade | 📁 Código (Para o Professor) | 🌐 Site Online (GitHub Pages) |
 | :--- | :--- | :--- |
-| **Atividade 1** | [Ver Código](./atividade1web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade1web/) |
-| **Atividade 2** | [Ver Código](./atividade2web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade2web/) |
-| **Atividade 3** | [Ver Código](./atividade3web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade3web/) |
-| **Atividade 4** | [Ver Código](./atividade4web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade4web/) |
-| **Atividade 5** | [Ver Código](./atividade5web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade5web/) |
-| **Atividade 6** | [Ver Código](./atividade6web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade6web/) |
-| **Atividade 7** | [Ver Código](./atividade7web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade7web/) |
-| **Atividade 8** | [Ver Código](./atividade8web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade8web/) |
-| **Atividade 9** | [Ver Código](./atividade9web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade9web/) |
-| **Atividade 10** | [Ver Código](./atividade10web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade10web/) |
-| **Atividade 11** | [Ver Código](./atividade11web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade11web/) |
-| **Atividade 12** | [Ver Código](./atividade12web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade12web/) |
-| **Atividade 13** | [Ver Código](./atividade13web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade13web/) |
-| **Atividade 14** | [Ver Código](./atividade14web) | [Acessar Site](https://le4ndror.github.io/atividadesweb/atividade14web/) |
+| **Atividade 1** | [Ver Código](https://github.com/JKeyrrison/atividade-1) | [Acessar Site](https://jkeyrrison.github.io/atividade-1/) |
+| **Atividade 2** | [Ver Código](https://github.com/JKeyrrison/atividade-2) | [Acessar Site](https://jkeyrrison.github.io/atividade-2/) |
+| **Atividade 3** | [Ver Código](https://github.com/JKeyrrison/atividade-3) | [Acessar Site](https://jkeyrrison.github.io/atividade-3/) |
+| **Atividade 4** | [Ver Código](https://github.com/JKeyrrison/atividade-4) | [Acessar Site](https://jkeyrrison.github.io/atividade-4/) |
+| **Atividade 5** | [Ver Código](https://github.com/JKeyrrison/atividade-5) | [Acessar Site](https://jkeyrrison.github.io/atividade-5/) |
+| **Atividade 6** | [Ver Código](https://github.com/JKeyrrison/atividade-6) | [Acessar Site](https://jkeyrrison.github.io/atividade-6/) |
+| **Atividade 7** | [Ver Código](https://github.com/JKeyrrison/atividade-7) | [Acessar Site](https://jkeyrrison.github.io/atividade-7/) |
+| **Atividade 8** | [Ver Código](https://github.com/JKeyrrison/atividade-8) | [Acessar Site](https://jkeyrrison.github.io/atividade-8/) |
+| **Atividade 9** | [Ver Código](https://github.com/JKeyrrison/atividade-9) | [Acessar Site](https://jkeyrrison.github.io/atividade-9/) |
+| **Atividade 10** | [Ver Código](https://github.com/JKeyrrison/atividade-10) | [Acessar Site](https://jkeyrrison.github.io/atividade-10/) |
+| **Atividade 11** | [Ver Código](https://github.com/JKeyrrison/atividade-11) | [Acessar Site](https://jkeyrrison.github.io/atividade-11/) |
+| **Atividade 12** | [Ver Código](https://github.com/JKeyrrison/atividade-12) | [Acessar Site](https://jkeyrrison.github.io/atividade-12/) |
+| **Atividade 13** | [Ver Código](https://github.com/JKeyrrison/atividade-13) | [Acessar Site](https://jkeyrrison.github.io/atividade-13/) |
+| **Atividade 14** | [Ver Código](https://github.com/JKeyrrison/atividade-14) | [Acessar Site](https://jkeyrrison.github.io/atividade-14/) |
